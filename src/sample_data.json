@@ -1,0 +1,111 @@
+[
+  {
+    "question": {
+      "choices": ["48", "13", "52", "50"],
+      "correct_choice_index": 3,
+      "text": "How many states are in the United States?",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  },
+  {
+    "question": {
+      "choices": ["PopCode", "ScriptEd", "CodeUSA", "CodeEd"],
+      "correct_choice_index": 1,
+      "text": "What was the original name of Code Nation when it was founded?",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  },
+  {
+    "question": {
+      "choices": ["12", "5", "11", "6"],
+      "correct_choice_index": 2,
+      "text": "How many soccer players should each team have on the field at the start of each match?",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  },
+  {
+    "question": {
+      "choices": ["23", "32", "6", "26"],
+      "correct_choice_index": 0,
+      "text": "What is LeBron James' current jersey number with the Lakers?",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  },
+  {
+    "question": {
+      "choices": [
+        "Larry Bird",
+        "Charles Barkley",
+        "Lebron James",
+        "Michael Jordan"
+      ],
+      "correct_choice_index": 3,
+      "text": "Which NBA All Star was not in the original Space Jams movie?",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  },
+  {
+    "question": {
+      "choices": ["2006", "2007", "2008", "2010"],
+      "correct_choice_index": 1,
+      "text": "What year was the very first model of the iPhone released?",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  },
+  {
+    "question": {
+      "choices": ["ctrl + c", "ctrl + v", "ctrl + d", "ctrl + f"],
+      "correct_choice_index": 0,
+      "text": "What’s the shortcut for the “copy” function on most computers?",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  },
+  {
+    "question": {
+      "choices": ["2006", "2007", "2008", "2010"],
+      "correct_choice_index": 1,
+      "text": "What year was the very first model of the iPhone released?",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  },
+  {
+    "question": {
+      "choices": ["electron", "proton", "neutron", "quark"],
+      "correct_choice_index": 2,
+      "text": "What part of the atom has no electric charge?",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  },
+  {
+    "question": {
+      "choices": ["Clams", "Mussles", "Scallops", "Oysters"],
+      "correct_choice_index": 3,
+      "text": "What animals are pearls found in?",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  },
+  {
+    "question": {
+      "choices": ["Wanda", "Captain Marvel", "Black Widow", "Gamora"],
+      "correct_choice_index": 2,
+      "text": "Which Avenger is the only one who could calm the Hulk down?",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  },
+  {
+    "question": {
+      "choices": ["Supergirl", "Black Lightning", "The Flash", "Batman"],
+      "correct_choice_index": 2,
+      "text": "Which of the following DC Superheroes do not have a TV Show on the CW?",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  },
+  {
+    "question": {
+      "choices": ["Just Saying", "JS", "JavaScript", "Joe Small"],
+      "correct_choice_index": 2,
+      "text": "What does JS in ReactJS stand for?",
+      "user_id": "ZbCvDadaM0SD9YjAXrHMEDLVGoj2"
+    }
+  }
+]
